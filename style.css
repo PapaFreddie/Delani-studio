@@ -1,5 +1,18 @@
-.container{
+/*.container{
     margin: auto;
     padding: 20px;
-    width: 100px;
+    width: 400px;
+}*/
+.home{
+    justify-content: center;
+    text-align: center;
+    background-image: url(./images/h_img.jpg);
+    height: 200vh;
+    opacity: 1;
+    padding-top: 210px;
+    
+}
+.home h3, p{
+    text-decoration: white;
+    
 }
