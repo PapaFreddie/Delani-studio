@@ -78,15 +78,32 @@ h1, h2, p{
     color: white;
     justify-content: center;
     text-align: center;
-    padding: 50px;
-    margin: 2px white;
-    
+    height: 150px;
+    width: 250px;
 }
+    
 .box2{
     background-image: url(./images/work3.jpg);
     color: white;
     justify-content: center;
     text-align: center;
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 250px;
 }
+.box3{
+    background-image: url(./images/work2.jpg);
+    color: white;
+    justify-content: center;
+    text-align: center;
+    height: 150px;
+    width: 250px;
+}
+.box4{
+    background-image: url(./images/work1.jpg);
+    color: white;
+    justify-content: center;
+    text-align: center;
+    height: 150px;
+    width: 250px;
+}
+
