@@ -35,7 +35,7 @@
     padding-top: 90px;
 }
 h1, h2, p{
-    color: white;
+    color: black;
 
 }
 .row{
@@ -73,89 +73,21 @@ h1, h2, p{
     color: black;
     text-align: center;
 }
-.box1{
-    color: white;
-    justify-content: center;
-    text-align: center;
-    height: 200px;
-    width: 250px;
-    padding: 50px;
-}
-    
-.box2{
-    color: white;
-    justify-content: center;
-    text-align: center;
-    height: 200px;
-    width: 250px;
-    padding: 50px;
-}
-.box3{
-    color: white;
-    justify-content: center;
-    text-align: center;
-    height: 200px;
-    width: 250px;
-    padding: 50px;
-   
-}
-.box3 a:hover{
-    border: white;
-    
-}
-.box4{
-    color: rgb(15, 15, 15);
-    justify-content: center;
-    text-align: center;
-    height: 200px;
-    width: 250px;
-    padding: 50px;
-}
-.box5{
-    color: rgb(15, 15, 15);
-    justify-content: center;
-    text-align: center;
-    height: 200px;
-    width: 250px;
-    padding: 50px;
-}
-.box6{
-    color: rgb(15, 15, 15);
-    justify-content: center;
-    text-align: center;
-    height: 200px;
-    width: 250px;
-    padding: 50px;
-}
-.box7{
-    color: rgb(15, 15, 15);
-    justify-content: center;
-    text-align: center;
-    height: 200px;
-    width: 250px;
-    padding: 50px;
-}
-.box8{
-    color: rgb(15, 15, 15);
-    justify-content: center;
-    text-align: center;
-    height: 200px;
-    width: 250px;
-    padding: 50px;
-}
 .row{
-    justify-content: space-around;
-
-
+    display: flex;
+    justify-content: space-between;
 }
-
-
-
-
-
-
 
 .contact{
+    justify-content: center;
+    text-align: center;
     background-image: url(./images/c_image.jpg);
-   
+    height: 50vh;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
 }
