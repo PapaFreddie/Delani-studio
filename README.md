@@ -2,16 +2,16 @@
 #### Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with API's.
 #### By **Fred Papa**
 ## Description
-Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with API's.
+Delani Studio is a website built to practice concepts learnt including JQuery, bootstrap, javascript and working with API's. The website displays the home page, with several features such as background image and the mouse-click button that, when clicked the about us section pops up or shows up.
+The site also displays about page that gives s brief description of Delani studio, what we do section that shows all the services offered. In this section, there is use of jQuerry events and functions. Among other sections where jQuerry is mainly used is in portfolio and contact us pages.
 ## Setup/Installation Requirements
 * Open terminal {Cntrl+Alt+T}
 * git clone https://papafreddie.github.io/Akan-names/
-* cd Akan-names
+* cd Delani-studio
 * code . or atom . depending on your editor
 ## Known Bugs
-The application only specifies the two genders, that is, male and female. It does not have option for 'others', those who do not have specify themselves as male or female.
+
 ## Future Plans
-The application should include 'others' in the gender section
 ## Technologies Used
 * HTML
 * CSS
