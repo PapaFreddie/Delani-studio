@@ -44,6 +44,7 @@ h1, h2, p{
 .what-we-do{
     justify-content: center;
     text-align: center;
+    padding: 30px;
 
 }
 .what-we-do h1{
@@ -70,20 +71,19 @@ h1, h2, p{
 }
 .portfolio{
     justify-content: space-between;
+    padding: 10px;
 }
 
-.portfolio h1{
+.portfolio h3{
     color: black;
     text-align: center;
 }
 .portfolio img{
     height: 200px;
     width: 250px;
+    padding-top: 30px;
 }
-.row{
-    display: flex;
-    justify-content: space-between;
-}
+
 
 .contact{
     justify-content: center;
