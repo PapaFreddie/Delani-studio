@@ -1,18 +1,53 @@
-/*.container{
+.container{
     margin: auto;
-    padding: 20px;
-    width: 400px;
-}*/
+    line-height: 2em;
+}
 .home{
     justify-content: center;
     text-align: center;
     background-image: url(./images/h_img.jpg);
-    height: 100vh;
+    height: 80vh;
     opacity: 1;
     padding-top: 210px;
     
 }
-.home h3, p{
-    text-decoration: white;
-    
+.about{
+    justify-content: center;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    padding-right: 80px;
+    height: 55vh;
+}
+.about h1{
+    color: black;
+}
+.about p{
+    color: black;
+}
+.services{
+    justify-content: center;
+    text-align: center;
+    background-image: url(./images/s_image.jpg);
+    opacity: 1.5;
+    height: 50vh;
+    padding-top: 90px;
+}
+h1, h2, p{
+    color: white;
+
+}
+.row{
+    justify-content: center;
+}
+.what-we-do h1{
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+
+}
+.row{
+    justify-content: space-around;
+    display: flex;
 }
