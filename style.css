@@ -73,3 +73,20 @@ h1, h2, p{
     color: black;
     text-align: center;
 }
+.box1{
+    background-image: url(./images/work4.jpg);
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+    margin: 2px white;
+    
+}
+.box2{
+    background-image: url(./images/work3.jpg);
+    color: white;
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
