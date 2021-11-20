@@ -79,12 +79,12 @@ h1, h2, p{
     text-align: center;
     height: 200px;
     width: 250px;
-    background-color: black;
+    background-image: url(./images/work4.jpg);
     padding: 50px;
 }
     
 .box2{
-    background-color: black;    
+    background-image: url(./images/work3.jpg);    
     color: white;
     justify-content: center;
     text-align: center;
@@ -93,7 +93,7 @@ h1, h2, p{
     padding: 50px;
 }
 .box3{
-    background-color: yellow;
+    background-image: url(./images/work2.jpg);
     color: white;
     justify-content: center;
     text-align: center;
@@ -107,11 +107,50 @@ h1, h2, p{
     
 }
 .box4{
-    background-color: black;
+    background-image: url(./images/work1.jpg);
     color: rgb(15, 15, 15);
     justify-content: center;
     text-align: center;
     height: 200px;
     width: 250px;
     padding: 50px;
+}
+.box5{
+    background-image: url(./images/work5.jpg);
+    color: rgb(15, 15, 15);
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    width: 250px;
+    padding: 50px;
+}
+.box6{
+    background-image: url(./images/work6.jpg);
+    color: rgb(15, 15, 15);
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    width: 250px;
+    padding: 50px;
+}
+.box7{
+    background-image: url(./images/work7.jpg);
+    color: rgb(15, 15, 15);
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    width: 250px;
+    padding: 50px;
+}
+.box8{
+    background-image: url(./images/work8.jpg);
+    color: rgb(15, 15, 15);
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    width: 250px;
+    padding: 50px;
+}
+.row{
+    justify-content: space-around;
 }
