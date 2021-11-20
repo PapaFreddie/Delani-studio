@@ -1,6 +1,6 @@
 .container{
     margin: auto;
-    line-height: 2em;
+    line-height: 1.5em;
 }
 .home{
     justify-content: center;
@@ -68,10 +68,17 @@ h1, h2, p{
 .paragraph2{
     color: black;
 }
+.portfolio{
+    justify-content: space-between;
+}
 
 .portfolio h1{
     color: black;
     text-align: center;
+}
+.portfolio img{
+    height: 200px;
+    width: 250px;
 }
 .row{
     display: flex;
@@ -82,7 +89,8 @@ h1, h2, p{
     justify-content: center;
     text-align: center;
     background-image: url(./images/c_image.jpg);
-    height: 50vh;
+    height: 100vh;
+    padding: 100px;
 }
 
 
