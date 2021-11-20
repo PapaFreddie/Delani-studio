@@ -1,13 +1,13 @@
 $('#btn1').on('click', function(){
-    $('.paragraph').toggle(3000);
+    $('.paragraph').toggle(1000);
 
 });
 
 $('#btn2').on('click', function(){
-    $('.paragraph1').toggle(3000);
+    $('.paragraph1').toggle(1000);
 
 });
 $('#btn3').on('click', function(){
-    $('.paragraph2').toggle(3000);
+    $('.paragraph2').toggle(1000);
 
 });

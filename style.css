@@ -41,6 +41,11 @@ h1, h2, p{
 .row{
     justify-content: center;
 }
+.what-we-do{
+    justify-content: center;
+    text-align: center;
+
+}
 .what-we-do h1{
     color: black;
     text-align: center;
@@ -62,4 +67,9 @@ h1, h2, p{
 }
 .paragraph2{
     color: black;
+}
+
+.portfolio h1{
+    color: black;
+    text-align: center;
 }
