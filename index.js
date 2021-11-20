@@ -1,3 +1,7 @@
+$('#btn0').on('click', function(){
+    $('.about').toggle(1000);
+
+});
 $('#btn1').on('click', function(){
     $('.paragraph').toggle(1000);
 
