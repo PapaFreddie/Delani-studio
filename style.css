@@ -73,37 +73,63 @@ h1, h2, p{
     color: black;
     text-align: center;
 }
-.box1{
+.card1{
     background-image: url(./images/work4.jpg);
-    color: white;
+    color: rgb(15, 15, 15);
     justify-content: center;
     text-align: center;
-    height: 150px;
-    width: 250px;
+    height: 20vh;
+    width: 50vh;
 }
     
-.box2{
+.card2{
     background-image: url(./images/work3.jpg);
-    color: white;
+    color: rgb(12, 11, 11);
     justify-content: center;
     text-align: center;
-    height: 150px;
-    width: 250px;
-}
-.box3{
-    background-image: url(./images/work2.jpg);
-    color: white;
-    justify-content: center;
-    text-align: center;
-    height: 150px;
-    width: 250px;
-}
-.box4{
-    background-image: url(./images/work1.jpg);
-    color: white;
-    justify-content: center;
-    text-align: center;
-    height: 150px;
-    width: 250px;
-}
 
+}
+.card3{
+    background-image: url(./images/work2.jpg);
+    color: rgb(241, 241, 104);
+    justify-content: center;
+    text-align: center;
+   
+}
+   
+
+.card4{
+    background-image: url(./images/work1.jpg);
+    color: rgb(15, 15, 15);
+    justify-content: center;
+    text-align: center;
+   
+}
+.card5{
+    background-image: url(./images/work5.jpg);
+    color: rgb(19, 19, 18);
+    justify-content: center;
+    text-align: center;
+   
+}
+.card6{
+    background-image: url(./images/work6.jpg);
+    color: rgb(10, 10, 10);
+    justify-content: center;
+    text-align: center;
+  
+}
+.card7{
+    background-image: url(./images/work7.jpg);
+    color: rgb(59, 59, 59);
+    justify-content: center;
+    text-align: center;
+   
+}
+.card8{
+    background-image: url(./images/work8.jpg);
+    color: rgb(19, 19, 18);
+    justify-content: center;
+    text-align: center;
+   
+}
