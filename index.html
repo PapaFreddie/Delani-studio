@@ -48,7 +48,7 @@
             <h3>WHAT WE DO</h3>
             <div class="row">
                 <div class="col-md-4">
-                    <div id="btn1"><img src="./images/design_icon.png" alt="DESIGN">
+                    <div id="btn1"><img src="./images/design_icon.png" alt="DESIGN" id="dicon">
                         <h5>DESIGN</h5>
                         <p class="paragraph">Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing
                             Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.</p>
@@ -57,7 +57,7 @@
                   
                 </div>
                 <div class="col-md-4">
-                    <div id="btn2"><img src="./images/dev_icon.png" alt="DEVELOPMENT">
+                    <div id="btn2"><img src="./images/dev_icon.png" alt="DEVELOPMENT" id="dev">
                         <h5>DEVELOPMENT</h5>
                         <p class="paragraph1">All engineers are fluent in the latest enterprise, mobile and web development technologies
                             They collaborate with your team to write, and improve code on a daily basis, using proven practices such as test-driven development and pair programming.</p>
@@ -66,7 +66,7 @@
                    
                 </div>
                 <div class="col-md-4">
-                    <div id="btn3"><img src="./images/product_icon16.png" alt="PRODUCT DEVELOPMENT">
+                    <div id="btn3"><img src="./images/product_icon16.png" alt="PRODUCT DEVELOPMENT" id="product">
                         <h5>PRODUCT DEVELOPMENT</h5>
                         <p class="paragraph2">Planning and development is iterative.
 
@@ -151,21 +151,26 @@
             <form>
                 <div class="row">
                     <div class="col-md-6">
-                        <input type="text" id="name" name="name" required placeholder="Your name">
+                        <input type="text" id="name" name="name" required placeholder="Name..">
                         </br>
 
                     </div>
                     <div class="col-md-6">
-                        <input type="email" id="email" name="email" required placeholder="username@gmail.com">
+                        <input type="email" id="email" name="email" required placeholder="Email..">
                         </br>
                         
                     </div>
 
                 </div>
-                <div class="message">
-                    <textarea placeholder="Send us your message here" id="message"></textarea>
+                <div class="row">
+                    <div class="col-md-12">
+                        <textarea placeholder="Your message here...." id="message"></textarea>
+
+                    </div>
+                    <button type="submit" onclick="result()">Submit</button>
+
                 </div>
-                <input type="submit" value="Submit" id="submit">
+                </div>
             </form>
         </div>
         <div class="footer">
