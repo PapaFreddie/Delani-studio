@@ -52,6 +52,9 @@ $('#btn3').on('click',  function(){
 
 });
 
+//portfolio
+
+
 //Contact us section
 $('#submit').load('text.html', function(responseTxt, statusTxt, xhr){
     if(statusTxt == 'success'){

@@ -87,10 +87,177 @@ h3, p{
     color: black;
     text-align: center;
 }
-.portfolio img{
-    height: 200px;
-    width: 250px;
-    padding-top: 30px;
+.col-md-3{
+    padding: 20px;
+}
+
+.image{
+    position: relative;
+
+}
+.image-img{
+    display: block;
+    width: 100%;
+}
+.image-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-title{
+    text-align: center;
+}
+.image2{
+    position: relative;
+
+}
+.image2-img{
+    display: block;
+    width: 100%;
+}
+.image2-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image2-title{
+    text-align: center;
+}
+.image3{
+    position: relative;
+
+}
+.image3-img{
+    display: block;
+    width: 100%;
+}
+.image3-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image3-title{
+    text-align: center;
+}
+.image4{
+    position: relative;
+
+}
+.image4-img{
+    display: block;
+    width: 100%;
+}
+.image4-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image4-title{
+    text-align: center;
+}
+.image5{
+    position: relative;
+
+}
+.image5-img{
+    display: block;
+    width: 100%;
+}
+.image5-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image5-title{
+    text-align: center;
+}
+.image6{
+    position: relative;
+
+}
+.image6-img{
+    display: block;
+    width: 100%;
+}
+.image6-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image6-title{
+    text-align: center;
+}
+.image7{
+    position: relative;
+
+}
+.image7-img{
+    display: block;
+    width: 100%;
+}
+.image7-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image7-title{
+    text-align: center;
+}
+.image8{
+    position: relative;
+
+}
+.image8-img{
+    display: block;
+    width: 100%;
+}
+.image8-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image8-title{
+    text-align: center;
 }
 .row{
     display: flex;
