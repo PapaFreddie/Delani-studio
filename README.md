@@ -10,7 +10,7 @@ The site also displays about page that gives s brief description of Delani studi
 * cd Delani-studio
 * code . or atom . depending on your editor
 ## Known Bugs
-On what we do section, the website when clicked on the icons, it should show the paragraph and hide the icon and when clicked again, it should show the icon and hide the paragraph. But in this case, the icon is not showing when clicked.
+On portfolio section, the website when clicked on the icons, it should hover the description of the images(texts) , but in this case, the hover is not responding.
 
 ## Future Plans
 Make sure the website does achieve full responsiveness 

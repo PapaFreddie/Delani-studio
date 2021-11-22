@@ -1,7 +1,7 @@
 
 //Click mouse function
 $('#btn0').on('click', function(){
-    $('.about').slideUp(1000);
+    $('.about').toggle(1000);
     
 
 });
@@ -67,6 +67,9 @@ $('#btn3').on('click',  function(){
 
 $('input').focus(function(){
     $(this).css('background', 'white')
+});
+$('form').focus(function(){
+    $('form#message').css('background', 'white')
 });
 
 
