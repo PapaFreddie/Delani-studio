@@ -6,7 +6,7 @@ Delani Studio is a website built to practice concepts learnt including JQuery, b
 The site also displays about page that gives s brief description of Delani studio, what we do section that shows all the services offered. In this section, there is use of jQuerry events and functions. Among other sections where jQuerry is mainly used is in portfolio and contact us pages.
 ## Setup/Installation Requirements
 * Open terminal {Cntrl+Alt+T}
-* git clone https://papafreddie.github.io/Akan-names/
+* git clone https://papafreddie.github.io/Delani-studio/
 * cd Delani-studio
 * code . or atom . depending on your editor
 ## Known Bugs
