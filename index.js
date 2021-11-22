@@ -55,22 +55,22 @@ $('#btn3').on('click',  function(){
 
 
 //Contact us section
-/*$('#submit').load('text.html', function(responseTxt, statusTxt, xhr){
+$('#submit').load('results.html',function(responseTxt, statusTxt, xhr){
     if(statusTxt == 'success'){
-        alert('Thanks for reaching us');
+        alert('Thanks for contacting us');
     }else if(statusTxt == 'error'){
-        alert('Error:'. Congratulations!!');
+        alert('Error: '+xhr.statusText)
+
     }
 
-});*/
+});
 
 
 $('input').focus(function(){
     $(this).css('background', 'white')
 });
-$('form').focus(function(){
-    $('form#message').css('background', 'white')
-});
+
+
 
 
 
