@@ -10,7 +10,7 @@ The site also displays about page that gives s brief description of Delani studi
 * cd Delani-studio
 * code . or atom . depending on your editor
 ## Known Bugs
-The website has not yet achieved full responsiveness
+On what we do section, the website when clicked on the icons, it should show the paragraph and hide the icon and when clicked again, it should show the icon and hide the paragraph. But in this case, the icon is not showing when clicked.
 
 ## Future Plans
 Make sure the website does achieve full responsiveness 
