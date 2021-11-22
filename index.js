@@ -57,7 +57,7 @@ $('#btn3').on('click',  function(){
 //Contact us section
 $('#submit').load('results.html',function(responseTxt, statusTxt, xhr){
     if(statusTxt == 'success'){
-        alert('Thanks for contacting us');
+        alert('Thanks for contacting us, we will get back to  you soon');
     }else if(statusTxt == 'error'){
         alert('Error: '+xhr.statusText)
 
