@@ -17,7 +17,6 @@ The site also displays about page that gives s brief description of Delani studi
 * CSS
 * jQuerry
 * Bootstrap
-* JavaScript
 ## Behaviour Driven Development
 1. Name: Users name e.g Fred Papa |
 2. Email: Users email address e.g @gmail.com/@yahoo.com |
