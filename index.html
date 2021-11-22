@@ -148,29 +148,34 @@
         </div>
         <div class="contact">
             <h3>CONTACT US</h3>
-            <form>
+            <form id="form">
                 <div class="row">
                     <div class="col-md-6">
-                        <input type="text" id="name" name="name" required placeholder="Name..">
+                        <input type="text" id="name" placeholder="Your name..">
                         </br>
 
                     </div>
                     <div class="col-md-6">
-                        <input type="email" id="email" name="email" required placeholder="Email..">
+                        <input type="email" id="email" placeholder="username@example.com">
                         </br>
                         
                     </div>
 
                 </div>
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-md-12">
                         <textarea placeholder="Your message here...." id="message"></textarea>
 
                     </div>
-                    <button type="submit" value="submit">Submit</button>
+                    <button type="submit" value="submit" id="sub">Submit</button>
 
                 </div>
-                </div>
+                </div>-->
+
+                <textarea id="message" name="message" placeholder="Your message here.."></textarea>
+                </br>
+                <button type="submit" id="submit" name="submit">Submit</button>
+
             </form>
         </div>
         <div class="footer">
