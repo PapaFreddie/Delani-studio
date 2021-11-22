@@ -1,7 +1,7 @@
 
 //Click mouse function
 $('#btn0').on('click', function(){
-    $('.about').toggle(1000);
+    $('.about').slideUp(1000);
     
 
 });
@@ -55,14 +55,14 @@ $('#btn3').on('click',  function(){
 
 
 //Contact us section
-$('#submit').load('text.html', function(responseTxt, statusTxt, xhr){
+/*$('#submit').load('text.html', function(responseTxt, statusTxt, xhr){
     if(statusTxt == 'success'){
         alert('Thanks for reaching us');
     }else if(statusTxt == 'error'){
         alert('Error:'. Congratulations!!');
     }
 
-});
+});*/
 
 
 $('input').focus(function(){
