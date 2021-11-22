@@ -10,8 +10,10 @@ The site also displays about page that gives s brief description of Delani studi
 * cd Delani-studio
 * code . or atom . depending on your editor
 ## Known Bugs
+The website has not yet achieved full responsiveness
 
 ## Future Plans
+Make sure the website does achieve full responsiveness 
 ## Technologies Used
 * HTML
 * CSS
