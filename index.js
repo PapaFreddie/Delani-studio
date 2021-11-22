@@ -52,7 +52,6 @@ $('#btn3').on('click',  function(){
 
 });
 
-//portfolio
 
 
 //Contact us section
@@ -60,13 +59,15 @@ $('#submit').load('text.html', function(responseTxt, statusTxt, xhr){
     if(statusTxt == 'success'){
         alert('Thanks for reaching us');
     }else if(statusTxt == 'error'){
-        alert('Form submitted. Congratulations!!');
+        alert('Error:'. Congratulations!!');
     }
 
 });
 
 
-
+$('input').focus(function(){
+    $(this).css('background', 'white')
+});
 
 
 

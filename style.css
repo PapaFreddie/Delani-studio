@@ -1,6 +1,6 @@
 .container{
     margin: auto;
-    line-height: 2em;
+    line-height: 1.3em;
     
 }
 
@@ -35,7 +35,7 @@
     text-align: center;
     background-image: url(./images/s_image.jpg);
     height: 50vh;
-    padding-top: 90px;
+    padding-top: 110px;
     
 
 }
@@ -274,20 +274,27 @@ h3, p{
     background-image: url(./images/c_image.jpg);
     height: 90vh;
     padding: 100px;
+    line-height: 1em;
 }
 #name{
     width:60vh;
     background: transparent;
+    border-color: snow;
+    padding-top: 10px;
 }
 #email{
     width: 60vh;
     background: transparent;
+    border-color: snow;
+    padding-top: 10px;
 }
 #message{
     width: 130vh;
     height: 50vh;
     justify-content: center;
     background: transparent;
+    border-color: snow;
+    text-decoration: white;
 
 }
 
